@@ -1,4 +1,4 @@
-const ViewerBG = '#eee';
+const ViewerBG = '#111111';
 const ViewerUI = {
 	canvasWrapper: document.getElementById('viewerCanvasWrapper'),
 	cubeWrapper: document.getElementById('orientCubeWrapper'),
